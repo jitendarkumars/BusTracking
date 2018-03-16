@@ -1,0 +1,3 @@
+rootProject.name = 'RSRTCAPP'
+
+include ':app'
