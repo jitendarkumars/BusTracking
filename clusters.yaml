@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: anxiety83-hasura
+  data: null
+  kubeContext: anxiety83
+  name: anxiety83
